@@ -1,0 +1,20 @@
+test = {   'name': 'q1a',
+    'points': 1,
+    'suites': [   {   'cases': [   {   'code': '>>> squared_loss(5, 6)\n1',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> squared_loss(0, 10)\n100',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> squared_loss(0.5, 1.2)\n'
+                                               '0.48999999999999994',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> squared_loss(-0.5, -20)\n'
+                                               '380.25',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
