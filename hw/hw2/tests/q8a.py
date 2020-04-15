@@ -29,11 +29,13 @@ test = {   'hidden': False,
                                    {   'code': '>>> sum([-1 < x < 1 for x in '
                                                'biased_simulations]) == '
                                                'len(biased_simulations)\n',
+                                               'True',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> '
                                                'abs(np.mean(biased_simulations) '
-                                               '+ 0.003) <= 0.12\n',
+                                               '+ 0.003) <= 0.12\n'
+                                               'True',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,
