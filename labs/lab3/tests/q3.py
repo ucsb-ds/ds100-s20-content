@@ -12,7 +12,6 @@ test = {   'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> '
                                                'all([fruit_info2["fruit"].equals(fruit_info_original["Fruit"]),fruit_info2["color"].equals(fruit_info_original["Color"])])\n'
-                                               '>>> \n'
                                                'True',
                                        'hidden': False,
                                        'locked': False}],
