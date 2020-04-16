@@ -28,7 +28,7 @@ test = {   'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> sum([-1 < x < 1 for x in '
                                                'biased_simulations]) == '
-                                               'len(biased_simulations)\n',
+                                               'len(biased_simulations)\n'
                                                'True',
                                        'hidden': False,
                                        'locked': False},
