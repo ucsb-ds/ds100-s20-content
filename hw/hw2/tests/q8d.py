@@ -3,7 +3,7 @@ test = {   'hidden': False,
     'points': 5,
     'suites': [   {   'cases': [   {   'code': '>>> 0 < percent_trump_biased < '
                                                '1\n'
-                                               'True'
+                                               'True',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,
