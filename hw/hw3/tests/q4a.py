@@ -1,0 +1,10 @@
+test = {   'hidden': False,
+    'name': 'q4a',
+    'points': 2,
+    'suites': [   {   'cases': [   {   'code': '>>> hourly_means.shape[0]\n24',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
