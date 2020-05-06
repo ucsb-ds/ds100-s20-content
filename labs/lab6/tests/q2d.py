@@ -1,7 +1,8 @@
 test = {   'hidden': False,
     'name': 'q2d',
     'points': 2,
-    'suites': [   {   'cases': [   {   'code': '>>> 0 < total_variance < 0.5\n'
+    'suites': [   {   'cases': [   {   'code': '>>> 2750 < total_variance < '
+                                               '2850\n'
                                                'True',
                                        'hidden': False,
                                        'locked': False},

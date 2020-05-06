@@ -7,7 +7,7 @@ test = {   'hidden': False,
                                    {   'code': '>>> '
                                                'np.all(np.isclose(diabetes_mean, '
                                                '[0]*10))\n'
-                                               'True',
+                                               'False',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> '
@@ -18,10 +18,10 @@ test = {   'hidden': False,
                                                'True',
                                        'hidden': False,
                                        'locked': False},
-                                   {   'code': '>>> -.003 < '
+                                   {   'code': '>>> -2.5 < '
                                                'np.sum(normalized_features[0]) '
-                                               '< 0.003 # make sure scaling '
-                                               'was done correctly\n'
+                                               '< -2.0 # make sure scaling was '
+                                               'done correctly\n'
                                                'True',
                                        'hidden': False,
                                        'locked': False}],
