@@ -1,8 +1,8 @@
 test = {   'hidden': False,
     'name': 'q3c',
     'points': 2,
-    'suites': [   {   'cases': [   {   'code': '>>> 0.78 < two_dim_variance < '
-                                               '0.85\n'
+    'suites': [   {   'cases': [   {   'code': '>>> 0.50 < two_dim_variance < '
+                                               '0.6\n'
                                                'True',
                                        'hidden': False,
                                        'locked': False}],

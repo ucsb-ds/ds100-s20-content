@@ -1,14 +1,12 @@
 test = {   'hidden': False,
     'name': 'q2d',
     'points': 2,
-    'suites': [   {   'cases': [   {   'code': '>>> 2750 < total_variance < '
-                                               '2850\n'
+    'suites': [   {   'cases': [   {   'code': '>>> 9 < total_variance < 11\n'
                                                'True',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> np.isclose(total_variance, '
-                                               'np.sum(np.var(diabetes_features, '
-                                               'axis=0)))\n'
+                                               '10)\n'
                                                'True',
                                        'hidden': False,
                                        'locked': False}],

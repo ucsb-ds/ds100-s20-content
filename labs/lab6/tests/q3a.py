@@ -5,8 +5,8 @@ test = {   'hidden': False,
                                                '(442, 2)',
                                        'hidden': False,
                                        'locked': False},
-                                   {   'code': '>>> -3 < '
-                                               'np.sum(diabetes_2d[0]) < -2\n'
+                                   {   'code': '>>> -1 < '
+                                               'np.sum(diabetes_2d[0]) < 1\n'
                                                'True',
                                        'hidden': False,
                                        'locked': False},
