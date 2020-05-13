@@ -3,11 +3,13 @@ test = {   'hidden': False,
     'points': 2,
     'suites': [   {   'cases': [   {   'code': '>>> '
                                                'np.isclose(np.mean(regression), '
-                                               'ybar)\n',
+                                               'ybar)\n'
+                                               'True',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> 0.9 < np.std(regression) < '
-                                               '0.95\n',
+                                               '0.95\n'
+                                               'True',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,

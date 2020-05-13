@@ -3,12 +3,14 @@ test = {   'hidden': False,
     'points': 2,
     'suites': [   {   'cases': [   {   'code': '>>> 1.0 < '
                                                'L2_tip_loss_list([0.9,0.1]) < '
-                                               '1.1\n',
+                                               '1.1\n'
+                                               'True',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> 56 < '
                                                'L2_tip_loss_list([0.5,0.5]) < '
-                                               '70\n',
+                                               '70\n'
+                                               'True',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,
