@@ -1,0 +1,25 @@
+test = {   'hidden': False,
+    'name': 'q1b',
+    'points': 5,
+    'suites': [   {   'cases': [   {   'code': '>>> list(X.columns)[0] == '
+                                               "'ones'\n"
+                                               'True',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> len(X.columns) == 4\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> X.iloc[0,0] == 1\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> X.iloc[100,0] == 1\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> X.iloc[100,1] == 0.75\n'
+                                               'True',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
