@@ -1,0 +1,10 @@
+test = {   'hidden': False,
+    'name': 'q6',
+    'points': 2,
+    'suites': [   {   'cases': [   {   'code': '>>> train.shape\n(1600, 82)',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
