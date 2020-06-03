@@ -36,7 +36,10 @@ You can use all these links and resources as part of the narrative of your final
 Below are a few datasets that tutors have found to be interesting and worth exploring:
 
 * U.S. Educational Finances - https://www.kaggle.com/noriuk/us-educational-finances#states.csv.
-Revenues and expenditures for U.S. grade schools, by year and state
+Revenues and expenditures for U.S. grade schools, by year and state.
+
+* World University Rankings - https://www.kaggle.com/mylesoneill/world-university-rankings.
+Ranking universities is a difficult, political, and controversial practice. There are hundreds of different national and international university ranking systems, many of which disagree with each other. This dataset contains three global university rankings from very different places.
 
 * Placement data of students in our campus - https://www.kaggle.com/benroshan/factors-affecting-campus-placement/data.
 Includes secondary and higher secondary school percentage and specialization. It also includes degree specialization, type and Work experience and salary offers to the placed students
